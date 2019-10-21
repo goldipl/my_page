@@ -121,6 +121,19 @@ p {
     padding: 0.05rem;
 }
   
+.wiecej2 {
+    background-color: rgba(215, 213, 123, .18);
+    padding-top: 0.1rem;
+    font-size: 1.8rem;
+    color: goldenrod;
+    text-decoration: underline;
+    float: center;
+}
+    .wiecej2:hover {
+    background: rgba(0,0,0,.2);
+    padding: 0.05rem;
+        
+}
 .logo {
     font-size: 1.5rem;
     float: left;
