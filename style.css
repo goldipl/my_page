@@ -121,7 +121,7 @@ p {
     padding: 0.05rem;
 }
   
-.wiecej2 {
+.more {
     background-color: rgba(215, 213, 123, .18);
     padding-top: 0.1rem;
     font-size: 1.8rem;
@@ -129,7 +129,7 @@ p {
     text-decoration: underline;
     float: center;
 }
-    .wiecej2:hover {
+    .more:hover {
     background: rgba(0,0,0,.2);
     padding: 0.05rem;
         
