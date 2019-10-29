@@ -296,23 +296,4 @@ nav a:hover:after {
     .logo-container img {
         display: none;
     }
-
-#prv-billboard {
-visibility:hidden !important;
-display:none !important;
-}
-
-
-#right_box {
-visibility:hidden !important;
-}
-
-#prvHostingStatsBottom {
-visibility:hidden !important;
-display:none !important;
-}
-
-#prv_main_link {
-visibility:hidden !important;
-display:none !important;
 }
