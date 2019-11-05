@@ -1,7 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [License](#license)
+* [Author](#author)
 
 ## General info
 My first own page based on HTML5 and CSS3 including Responsive Web Design. 
@@ -14,5 +14,5 @@ Project is created with:
 * CSS3
 * RWD & MQ
 
-## License
-© Marcin Godlewski 2019
+## Author
+Marcin Godlewski
