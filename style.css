@@ -30,6 +30,16 @@ h2 {
     margin: 1.5rem;
 }
 
+h3 {
+    font-size: 1.8rem;
+    background-color: rgba(219, 219, 90, .15);
+    color: yellowgreen;
+    text-decoration-style: none;
+    text-align: center;
+    padding: 1.3rem;
+    margin: 1.5rem;
+}
+
 p {
     font-size: 1.5rem;
     color: white;
@@ -134,6 +144,7 @@ p {
     padding: 0.05rem;
         
 }
+
 .logo {
     font-size: 1.5rem;
     float: left;
@@ -224,11 +235,15 @@ nav a:hover:after {
     width: 100%;
 }
 
+/* If the screen size is 1000px or less, set the css styles like under */
+
 @media screen and (max-width: 1000px) {
   html  {
     width: 100%; 
   }
 }
+
+/* If the screen size is 972px or less, set the css styles like under */
 
 @media screen and (max-width: 972px) {
   header {
@@ -249,6 +264,8 @@ nav a:hover:after {
       margin-left: 0;
     }
 }
+
+/* If the screen size is 573px or less, set the css styles like under */
 
 @media screen and (max-width: 573px) {
     nav {
@@ -291,6 +308,8 @@ nav a:hover:after {
     padding: 0.4rem;
     }
 }
+
+/* If the screen size is 422px or less, set the css styles like under */
 
 @media screen and (max-width: 422px) {
     .logo-container img {
