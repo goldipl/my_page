@@ -309,10 +309,16 @@ nav a:hover:after {
     }
 }
 
-/* If the screen size is 422px or less, set the css styles like under */
+/* If the screen size is 440px or less, set the css styles like under */
 
-@media screen and (max-width: 422px) {
+@media screen and (max-width: 440px) {
     .logo-container img {
         display: none;
+    }
+    
+        div.box_4_column div {
+    width: 95%;
+    display: inline-block;
+    padding: 0.4rem;
     }
 }
