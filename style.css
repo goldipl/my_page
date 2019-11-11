@@ -49,6 +49,24 @@ p {
     margin: 1.5rem;
 }
 
+.opis {
+    font-size: 1.5rem;
+    color: white;
+    text-decoration-style: none;
+    text-align: center;
+    padding: 1.2rem;
+    margin: 1.5rem;
+}
+
+.opislista {
+    font-size: 1.3rem;
+    color: white;
+    text-decoration-style: none;
+    text-align: center;
+    padding: 0.8rem;
+    margin: 0.2rem;
+}
+
 .stopka {
     font-size: 1.2rem;
     background-color: rgba(225, 223, 223, .1);
