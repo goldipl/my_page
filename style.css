@@ -1,6 +1,5 @@
 @import url(reset.css);
 
-
 html {
     font-size: 62.5%;
     font-family: 'Roboto Slab', serif, sans-serif;
@@ -71,6 +70,11 @@ p {
     margin: 0.5rem;
 }
 
+.certificate img:hover {
+    transform: scale(1.1);
+    transition: 0.7s;
+}
+
 .stopka {
     font-size: 1.2rem;
     background-color: rgba(225, 223, 223, .1);
@@ -104,16 +108,6 @@ p {
 
 .glownynews {
     vertical-align: top;
-}
-
-.mail {
-    font-size: 1.5rem;
-}
-
-.mail2 {
-    font-size: 2.0rem;
-    color: white;
-    text-align: center;
 }
 
 .lista_o_mnie {
@@ -273,9 +267,9 @@ nav a:hover:after {
     }
     
   .logo-container {
-    float: none;
-    display: inline-block;
-    margin: 0 0 16px 0;
+      float: none;
+      display: inline-block;
+      margin: 0 0 16px 0;
     }
     
   ul {
@@ -299,10 +293,10 @@ nav a:hover:after {
     }
     
     nav li {
-      display: block;
-      margin: 0;
-      height: 40px;
-      line-height: 40px;
+        display: block;
+        margin: 0;
+        height: 35px;
+        line-height: 35px;
     }
     
     nav li:hover {
@@ -310,14 +304,14 @@ nav a:hover:after {
     }
     
     nav a:after {
-      content: "";
-      width: 0;
-      height: 1px;
-      position: absolute;
-      left: 0;
-      bottom: 5px;
-      background: orange;
-      transition: width .4s linear;  
+        content: "";
+        width: 0;
+        height: 1px;
+        position: absolute;
+        left: 0;
+        bottom: 5px;
+        background: orange;
+        transition: width .4s linear;  
     }
     
     h1 {
@@ -325,10 +319,11 @@ nav a:hover:after {
     }
     
     div.box_4_column div {
-    width: 20.0rem;
-    display: inline-block;
-    padding: 0.4rem;
+        width: 20.0rem;
+        display: inline-block;
+        padding: 0.4rem;  
     }
+    
 }
 
 /* If the screen size is 440px or less, set the css styles like under */
@@ -338,9 +333,33 @@ nav a:hover:after {
         display: none;
     }
     
-        div.box_4_column div {
-    width: 95%;
-    display: inline-block;
-    padding: 0.4rem;
+    div.box_4_column div {
+        width: 95%;
+        display: inline-block;
+        padding: 0.4rem;
+    }
+    
+    .napis1 {
+        display: inline-block;
+        font-size: 2.0rem;
+        color: white;
+        margin-top: 0.3rem;
+        padding-top: 0.5rem;
+        margin-left: 1.0rem;
+    }
+    
+    .napis2 {
+        display: inline-block;
+        font-size: 0.95rem;
+        color: white;
+        margin-left: 1.0rem;
+        margin-top: 0.5rem;
+    }
+    
+    nav li {
+        display: block;
+        margin: 0;
+        height: 35px;
+        line-height: 35px;
     }
 }
