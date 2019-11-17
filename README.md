@@ -14,6 +14,7 @@ Also you can find there my blog where I put the progress of my learning and work
 *O mnie* | About me | Hmm... it's just info about me
 *Portfolio* | Portfolio | There you can find my projects and my workspace
 *Blog* | Blog | Some information about my progress in the IT world
+*Kontakt* | Contact | There you can find my social media pages and e-mail if you want to contact me
 	
 ## Technologies
 Project is created with:
@@ -22,4 +23,4 @@ Project is created with:
 * RWD & MQ
 
 ## Author
-Marcin Godlewski
+Copyright © Marcin Godlewski
