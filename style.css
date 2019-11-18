@@ -75,6 +75,16 @@ p {
     transition: 0.7s;
 }
 
+.socialml{
+    margin: 0.5rem;
+}
+
+.socialml img:hover {
+    transform: scale(1.2);
+    transition: 0.5s;
+    filter: drop-shadow(0 0 0.8rem goldenrod);
+}
+
 .stopka {
     font-size: 1.2rem;
     background-color: rgba(225, 223, 223, .1);
