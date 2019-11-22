@@ -75,7 +75,7 @@ p {
     transition: 0.7s;
 }
 
-.socialml{
+.socialml {
     margin: 0.5rem;
 }
 
@@ -142,6 +142,15 @@ p {
 .zdjecie2 {
     padding: 0.5rem;
     margin-left: 1.5rem;
+}
+
+.stack {
+    padding: 0.5rem;
+    margin-left: 1.5rem;
+}
+
+.stack:hover {
+    filter: drop-shadow(0 0 0.8rem goldenrod);
 }
 
 .wiecej {
