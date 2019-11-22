@@ -27,5 +27,5 @@ Project is created with:
 Copyright © Marcin Godlewski
 
 ## Other info
-Free icons (used on this webpage) were designed by Freepik https://www.flaticon.com/authors/freepik and RoundIcons https://www.flaticon.com/authors/roundicons from www.flaticon.com -> `grafika-jpg` folder.
+Free icons (used on this webpage) were designed by Freepik https://www.flaticon.com/authors/freepik and RoundIcons https://www.flaticon.com/authors/roundicons from www.flaticon.com -> `grafika-png` folder.
 Other pictures comes from free site Pexels https://www.pexels.com/ -> `grafika-jpg` folder.
