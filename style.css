@@ -154,30 +154,36 @@ p {
 }
 
 .wiecej {
-    background-color: rgba(225, 223, 223, .08);
+    background-color: transparent;
     padding-top: 0.1rem;
     font-size: 1.5rem;
+    border-radius: 40px;
+    padding: 0.4em 1.0em;
     color: goldenrod;
     text-decoration: none;
     float: right;
 }
     .wiecej:hover {
-    background: rgba(0,0,0,.2);
-    padding: 0.05rem;
+    box-shadow: 0 0 10px 0 goldenrod inset, 0 0 20px 2px goldenrod;
 }
-  
-.more {
-    background-color: rgba(215, 213, 123, .18);
-    padding-top: 0.1rem;
-    font-size: 1.8rem;
+
+.button {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    background-color: transparent;
+    border: 1px solid goldenrod;
+    border-radius: 40px;
+    font-size: 1.5rem;
+    padding: 0.6em 1.4em;
+    text-transform: uppercase;
+    transition: all .15s ease-in-out;
+    text-decoration: none;
     color: goldenrod;
-    text-decoration: underline;
-    float: center;
+    
 }
-    .more:hover {
-    background: rgba(0,0,0,.2);
-    padding: 0.05rem;
-        
+.button:hover {
+    box-shadow: 0 0 10px 0 goldenrod inset, 0 0 20px 2px goldenrod;
+    border: 2px solid goldenrod;
 }
 
 .logo {
