@@ -176,11 +176,11 @@ p {
     font-size: 1.5rem;
     padding: 0.6em 1.4em;
     text-transform: uppercase;
-    transition: all .15s ease-in-out;
     text-decoration: none;
     color: goldenrod;
     
 }
+
 .button:hover {
     box-shadow: 0 0 10px 0 goldenrod inset, 0 0 20px 2px goldenrod;
     border: 2px solid goldenrod;
