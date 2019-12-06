@@ -18,7 +18,7 @@ Also you can find there my blog where I put the progress of my learning and work
 *Kontakt* | Contact | There you can find my social media pages (*instagram, facebook, linkedin, github*) and *e-mail* if you want to contact me
 	
 ## Technologies
-Project is created with:
+Project was created with:
 * HTML5
 * CSS3
 * RWD & MQ
