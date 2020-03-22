@@ -168,13 +168,13 @@ p {
 }
 
 .button {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Abel', sans-serif;
     font-weight: 600;
     background-color: transparent;
     border: 1px solid goldenrod;
     border-radius: 40px;
     font-size: 1.5rem;
-    padding: 0.6em 1.4em;
+    padding: 0.6em 0.6em;
     text-transform: uppercase;
     text-decoration: none;
     color: goldenrod;
@@ -184,6 +184,25 @@ p {
 .button:hover {
     box-shadow: 0 0 10px 0 goldenrod inset, 0 0 20px 2px goldenrod;
     border: 2px solid goldenrod;
+}
+
+.button2 {
+    font-family: 'Abel', sans-serif;
+    font-weight: 600;
+    background-color: transparent;
+    border: 1px solid yellowgreen;
+    border-radius: 40px;
+    font-size: 1.5rem;
+    padding: 0.6em 0.6em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: yellowgreen;
+    
+}
+
+.button2:hover {
+    box-shadow: 0 0 10px 0 yellowgreen inset, 0 0 20px 2px yellowgreen;
+    border: 2px solid yellowgreen;
 }
 
 .logo {
@@ -386,5 +405,8 @@ nav a:hover:after {
         margin: 0;
         height: 35px;
         line-height: 35px;
+        
     }
+    
+    
 }
