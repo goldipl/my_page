@@ -1,6 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Screenshot](#screenshot)
 * [Author](#author)
 * [Other info](#other-info)
 
@@ -22,6 +23,9 @@ Project was created with:
 * HTML5
 * CSS3
 * RWD & MQ
+
+## Screenshot
+![Screenshot](employeeslist.jpg)
 
 ## Author
 Copyright © Marcin Godlewski
