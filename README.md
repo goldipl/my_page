@@ -1,7 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Screenshot](#screenshot)
+* [Screenshot PC version](#screenshot-pc-version)
 * [Author](#author)
 * [Other info](#other-info)
 
@@ -24,7 +24,7 @@ Project was created with:
 * CSS3
 * RWD & MQ
 
-## Screenshot
+## Screenshot PC version
 ![Screenshot](screenshot.jpg)
 
 ## Author
