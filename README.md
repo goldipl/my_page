@@ -25,7 +25,7 @@ Project was created with:
 * RWD & MQ
 
 ## Screenshot
-![Screenshot](employeeslist.jpg)
+![Screenshot](screenshot.jpg)
 
 ## Author
 Copyright © Marcin Godlewski
