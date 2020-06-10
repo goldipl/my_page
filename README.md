@@ -2,6 +2,8 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Screenshot PC version](#screenshot-pc-version)
+* [Screenshot tablet version](#screenshot-tablet-version)
+* [Screenshot smartfon version](#screenshot-smartfon-version)
 * [Author](#author)
 * [Other info](#other-info)
 
@@ -26,6 +28,12 @@ Project was created with:
 
 ## Screenshot PC version
 ![Screenshot](screenshot.jpg)
+
+## Screenshot tablet version
+![Screenshot](screenshot2.jpg)
+
+## Screenshot smartfon version
+![Screenshot](screenshot3.jpg)
 
 ## Author
 Copyright © Marcin Godlewski
