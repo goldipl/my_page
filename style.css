@@ -2,7 +2,7 @@
 
 html {
     font-size: 62.5%;
-    font-family: 'Roboto Slab', serif, sans-serif;
+    font-family: 'Roboto Slab', sans-serif;
     background-color: dimgray;
     width: 960px;
     margin-left: auto;
@@ -46,6 +46,29 @@ p {
     text-align: center;
     padding: 1.2rem;
     margin: 1.5rem;
+}
+
+.container {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  color: white;
+}
+
+.container.img {
+    display: block;
+    text-align: center;
+    color: white;
+  }
+
+.centered {
+  font-size: 3.6rem;
+  color: white;
+  text-shadow: 2px 2px 2px black, 0 0 25px goldenrod, 0 0 15px;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .opis {
@@ -323,6 +346,10 @@ nav a:hover:after {
   nav li:first-of-type {
       margin-left: 0;
     }
+    
+  .centered {
+      top: 30%;
+    }
 }
 
 /* If the screen size is 573px or less, set the css styles like under */
@@ -368,6 +395,11 @@ nav a:hover:after {
         padding: 0.4rem;  
     }
     
+    .centered {
+        font-size: 3.0rem;
+        top: 30%;
+    }
+    
 }
 
 /* If the screen size is 440px or less, set the css styles like under */
@@ -404,9 +436,12 @@ nav a:hover:after {
         display: block;
         margin: 0;
         height: 35px;
-        line-height: 35px;
-        
+        line-height: 35px;   
     }
     
-    
+    .centered {
+        font-size: 2.0rem;
+        top: 30%;
+    }
+ 
 }
