@@ -1,5 +1,6 @@
 const texts = ['Jestem Marcin.',
-              'Jestem Junior Java Developerem.',
+              'Jestem HTML Web Developerem',
+              'oraz Junior Java Developerem.',
               'Jestem programistą.',
               'Jestem nastawiony na sukces.'];
 let count = 0;
