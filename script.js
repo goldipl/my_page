@@ -1,5 +1,5 @@
 const texts = ['Jestem Marcin.',
-              'Jestem HTML Web Developerem',
+              'Jestem Web Developerem',
               'oraz Junior Java Developerem.',
               'Jestem programistą.',
               'Jestem nastawiony na sukces.'];
