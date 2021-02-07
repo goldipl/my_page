@@ -167,6 +167,16 @@ p {
     margin-left: 1.5rem;
 }
 
+.iconsText {
+    color: white;
+    text-align: center;
+}
+
+.iconsText a {
+    color: white;
+    text-decoration: none;
+}
+
 .stack {
     padding: 0.5rem;
     margin-left: 1.5rem;
