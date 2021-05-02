@@ -6,6 +6,7 @@
 * [Screenshot smartfon version](#screenshot-smartfon-version)
 * [Author](#author)
 * [Other info](#other-info)
+* [Live](#live)
 
 ## General info
 My first own page based on `HTML5`, `CSS3`, `JavaScript` including `Responsive Web Design`.
@@ -42,3 +43,6 @@ Copyright © Marcin Godlewski
 ## Other info
 Free icons (used on this webpage) were designed by Freepik https://www.flaticon.com/authors/freepik and RoundIcons https://www.flaticon.com/authors/roundicons from www.flaticon.com -> `grafika-png` folder.
 Other pictures comes from free site Pexels https://www.pexels.com/ -> `grafika-jpg` folder.
+
+## Live :star2:
+https://goldipl.github.io/my_page/
