@@ -244,7 +244,7 @@ p {
     padding-top: 1.5rem;
 }
 
-.napis1 {
+.title1 {
     display: inline-block;
     font-size: 3.0rem;
     color: white;
@@ -253,7 +253,7 @@ p {
     margin-left: 1.0rem;
 }
 
-.napis2 {
+.title2 {
     display: inline-block;
     font-size: 1.0rem;
     color: white;
@@ -464,7 +464,7 @@ nav a:hover:after {
         padding: 0.4rem;
     }
     
-    .napis1 {
+    .title1 {
         display: inline-block;
         font-size: 2.0rem;
         color: white;
@@ -473,7 +473,7 @@ nav a:hover:after {
         margin-left: 1.0rem;
     }
     
-    .napis2 {
+    .title2 {
         display: inline-block;
         font-size: 0.95rem;
         color: white;
