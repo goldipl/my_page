@@ -436,6 +436,10 @@ nav a:hover:after {
     .top nav {
         display: none;
     }
+
+    .top nav.open {
+        display: block;
+    }
 }
 
 /* If the screen size is 440px or less, set the css styles like under */
