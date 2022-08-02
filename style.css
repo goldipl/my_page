@@ -443,6 +443,7 @@ nav a:hover:after {
 
     .top nav.open {
         display: block;
+        margin-bottom: 16px;
     }
 }
 
